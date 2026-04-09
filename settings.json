@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "J1D3NGG.aternos.me",
+    "ip": "velvetfish.aternos.host",
     "port": 22879,
     "version": "1.21.11",
     "try-creative": false
